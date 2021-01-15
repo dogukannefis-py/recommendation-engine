@@ -205,8 +205,8 @@ localhost:4340/api/browsing_history?user-id=<userid>
 localhost:4340/api/inser_data
 ```
 ##### **DELETE**
+⇒ users which they can delete a product from their history
 ```python
-=> users which they can delete a product from their history
 localhost:4340/api/delete_data
 ```
 
