@@ -212,7 +212,8 @@ localhost:4340/api/delete_data
 
 ### **RECOMMENDATION**
 ⇒ Offer ten products based on most three categories.
-=> or top ten products bought (last month) by the most distinct users without any filter. (if user-id is not found)
+
+⇒ or top ten products bought (last month) by the most distinct users without any filter. (if user-id is not found)
 ```python
 localhost:4340/api/recommendation?user-id=<userid>
 ```
